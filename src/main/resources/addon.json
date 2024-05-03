@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "name": "Template",
+  "mainClass": "com.leonard.leonard.xxtemplatexx",
+  "description": "Template by Leonard",
+  "version": 1,
+  "author": "Leonard0912",
+  "category": 2,
+  "icon": "icon.png"
+}
